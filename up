@@ -1,0 +1,1 @@
+sed 's/^[^#]*lm\.session_protection/#&/' -i /app/calibre-web/cps/__init__.py
